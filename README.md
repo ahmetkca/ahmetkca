@@ -1,7 +1,13 @@
-### Hi there 👋
+# Ahmet Karapinar
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ahmetkca)](https://git.io/streak-stats)
 
+## Hi there 👋
+My name is Ahmet Karapinar, I'm ...
+
+- 🌱 I’m currently learning about Microservices, DDD (Domain Driven Design) and Kubernetes.
+- 📚 Studying for a B.Eng. Software Engineering at Ontario Tech University.
+- 📫 How to reach me: ahmet.karapinar@ontariotechu.net
 <!--
 **ahmetkca/ahmetkca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
