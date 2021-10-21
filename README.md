@@ -5,9 +5,30 @@
 ## Hi there 👋
 My name is Ahmet Karapinar, I'm ...
 
-- 🌱 I’m currently learning about Microservices, DDD (Domain Driven Design) and Kubernetes.
+- 🌱 Currently learning about Microservices, DDD (Domain Driven Design) and Kubernetes in my spare time.
 - 📚 Studying for a B.Eng. Software Engineering at Ontario Tech University.
 - 📫 How to reach me: ahmet.karapinar@ontariotechu.net
+
+## Technical Skills
+
+- Python
+- Java
+- Golang
+- HTML/CSS
+- Javascript/NodeJS
+- C
+- C++
+- PHP
+- Perl
+- Shell Scripting/Bash
+- Unix/Linux Systems
+- Docker/Docker Compose
+- Git/Github
+- UML
+- Agile Development
+- Software Architectural Patterns
+- Software Design Patterns
+- Data Structures and Algorithms
 <!--
 **ahmetkca/ahmetkca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
