@@ -20,10 +20,13 @@ My name is Ahmet Karapinar, I'm ...
 - C++
 - PHP
 - Perl
+- SQL/MySQL/PostgreSQL, NoSQL/MongoDB, Redis
 - Shell Scripting/Bash
 - Unix/Linux Systems
 - Docker/Docker Compose
 - Git/Github
+- Heroku
+- CI/CD pipline
 - UML
 - Agile Development
 - Software Architectural Patterns
