@@ -5,7 +5,7 @@
 ## Hi there 👋
 My name is Ahmet Karapinar, I'm ...
 
-- 🌱 Currently learning about Microservices, DDD (Domain Driven Design) and Kubernetes in my spare time.
+- 🌱 Currently learning about Microservices Architecture, Domain-Driven Desing (DDD) and Kubernetes in my spare time.
 - 📚 Studying for a B.Eng. Software Engineering at Ontario Tech University.
 - 📫 How to reach me: ahmet.karapinar@ontariotechu.net
 
