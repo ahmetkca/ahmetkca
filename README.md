@@ -5,7 +5,7 @@
 ## Hi there 👋
 My name is Ahmet Karapinar, I'm ...
 
-- 🌱 Currently learning about Microservices Architecture, Domain-Driven Desing (DDD) and Kubernetes in my spare time.
+- 🌱 Currently learning TypeScript, JavaScript, Cross-Platform Mobile Development React Native, AWS Lambda, Serverless Framework
 - 📚 Studying for a B.Eng. Software Engineering at Ontario Tech University.
 - 📫 How to reach me: ahmet.karapinar@ontariotechu.net
 
@@ -15,23 +15,22 @@ My name is Ahmet Karapinar, I'm ...
 - Java
 - Golang
 - HTML/CSS
-- Javascript/NodeJS
+- JavaScript/TypeScript
 - C
 - C++
 - PHP
 - Perl
-- SQL/MySQL/PostgreSQL, NoSQL/MongoDB, Redis
+- SQL/MySQL/PostgreSQL, NoSQL/MongoDB/Redis
 - Shell Scripting/Bash
 - Unix/Linux Systems
 - Docker/Docker Compose
 - Git/Github
 - Heroku
+- Data Structures and Algorithms
 - CI/CD pipline
-- UML
 - Agile Development
 - Software Architectural Patterns
 - Software Design Patterns
-- Data Structures and Algorithms
 <!--
 **ahmetkca/ahmetkca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
